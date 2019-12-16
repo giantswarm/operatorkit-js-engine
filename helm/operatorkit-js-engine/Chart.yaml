@@ -1,0 +1,3 @@
+apiVersion: v1
+name: operatorkit-js-engine
+version: [[ .Version ]]

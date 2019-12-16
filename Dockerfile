@@ -2,6 +2,6 @@ FROM alpine:3.10
 
 RUN apk add --no-cache ca-certificates
 
-ADD ./template-operator /template-operator
+ADD ./operatorkit-js-engine /operatorkit-js-engine
 
-ENTRYPOINT ["/template-operator"]
+ENTRYPOINT ["/operatorkit-js-engine"]
