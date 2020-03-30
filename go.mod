@@ -53,7 +53,7 @@ require (
 	github.com/prometheus/client_golang v1.0.0
 	github.com/prometheus/client_model v0.0.0-20191202183732-d1d2010b5bee
 	github.com/prometheus/common v0.7.0
-	github.com/prometheus/procfs v0.0.8
+	github.com/prometheus/procfs v0.0.11
 	github.com/spf13/afero v1.2.2
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/cobra v0.0.5
