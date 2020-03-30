@@ -22,7 +22,7 @@ require (
 	github.com/giantswarm/operatorkit v0.0.0-20191209140411-5d098618662e
 	github.com/giantswarm/to v0.0.0-20191022113953-f2078541ec95
 	github.com/giantswarm/versionbundle v0.0.0-20191206123034-be95231628ae
-	github.com/go-kit/kit v0.9.0
+	github.com/go-kit/kit v0.10.0
 	github.com/go-logfmt/logfmt v0.4.0
 	github.com/go-logr/logr v0.1.0
 	github.com/go-stack/stack v1.8.0
