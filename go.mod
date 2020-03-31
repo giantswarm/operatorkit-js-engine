@@ -32,7 +32,7 @@ require (
 	github.com/google/go-cmp v0.3.1
 	github.com/google/gofuzz v1.0.0
 	github.com/google/uuid v1.1.1
-	github.com/googleapis/gnostic v0.3.1
+	github.com/googleapis/gnostic v0.4.1
 	github.com/gorilla/mux v1.7.3
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/hashicorp/hcl v1.0.0
