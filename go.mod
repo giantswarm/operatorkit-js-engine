@@ -9,7 +9,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/docker/distribution v0.0.0-20191206192713-f18781257ec9
 	github.com/evanphx/json-patch v4.5.0+incompatible
-	github.com/fsnotify/fsnotify v1.4.7
+	github.com/fsnotify/fsnotify v1.4.9
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/giantswarm/apiextensions v0.0.0-20191213075442-71155aa0f5b7
 	github.com/giantswarm/backoff v0.0.0-20190913091243-4dd491125192
