@@ -36,7 +36,7 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/hashicorp/hcl v1.0.0
-	github.com/imdario/mergo v0.3.8
+	github.com/imdario/mergo v0.3.9
 	github.com/inconshreveable/mousetrap v1.0.0
 	github.com/json-iterator/go v1.1.8
 	github.com/juju/errgo v0.0.0-20140925100237-08cceb5d0b53
