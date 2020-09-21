@@ -28,7 +28,7 @@ require (
 	github.com/go-stack/stack v1.8.0
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.3.5
 	github.com/google/go-cmp v0.3.1
 	github.com/google/gofuzz v1.0.0
 	github.com/google/uuid v1.1.1
